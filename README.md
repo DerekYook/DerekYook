@@ -8,7 +8,7 @@
    
   :computer: 새로운걸 배우는 것을 좋아해요 :computer_mouse:
    
-  :floppy_disk: 클라우서비스를 이용한 서버와 RDB 구축에 관심이 있어요 :cd:
+  :floppy_disk: 클라우드서비스를 이용한 서버와 RDB 구축에 관심이 있어요 :cd:
    
   :black_cat: 1년차 캔따개에요 :cat2:
    
