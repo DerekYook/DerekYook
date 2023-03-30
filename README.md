@@ -5,7 +5,7 @@
 <div align="center">
    
 ## Study Blog
-  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">노션페이지</a>
+  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">https://www.notion.so/</a>
    
 ## TechStack
    
