@@ -3,13 +3,14 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=bcbcbc&fontSize=40&fontColor=5b5b5b&text=System.out.println(%22Welcome%20Here!%22)%3B&animation=fadeIn&fontAlignY=55)
 </div>
 <div align="center">
+   
   ## About me
    
   :computer: 새로운걸 배우는 것을 좋아해요 :computer_mouse:
    
   :floppy_disk: 클라우서비스를 이용한 서버와 RDB 구축에 관심이 있어요 :cd:
    
-  :black_cat: 1년차 캔따개에요 :black_cat:
+  :cat: 1년차 캔따개에요 :cat:
    
   :fork_and_knife: 취미로 요리해서 먹는것을 좋아해요 :plate_with_cutlery:
 
