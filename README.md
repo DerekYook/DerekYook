@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?text=Playdata)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome,Here!)
 </div>
