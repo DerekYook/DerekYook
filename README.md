@@ -4,6 +4,11 @@
 </div>
 <div align="center">
    
+## Study Blog
+  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">노션페이지</a>
+   
+## TechStack
+   
 ### :pencil:Language:book:
    
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a>
