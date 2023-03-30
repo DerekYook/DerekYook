@@ -3,10 +3,9 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=bcbcbc&fontSize=40&fontColor=5b5b5b&text=System.out.println(%22Welcome%20Here!%22)%3B&animation=fadeIn&fontAlignY=55)
 </div>
 <div align="center">
-   
-## Study Blog
-  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">https://www.notion.so/</a>
-   
+   🐈🐾
+  🍽🍽
+  
 ## TechStack
    
 ### :pencil:Language:book:
@@ -29,4 +28,7 @@
   <a href="https://aws.amazon.com/ko/ec2/?nc2=h_ql_prod_fs_ec2" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"></a>
   <a href="https://aws.amazon.com/ko/rds/?nc2=h_ql_prod_fs_rds" target="_blank"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a>
+  
+  ## Study Blog
+  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">https://www.notion.so/</a>
 </div>
