@@ -10,7 +10,7 @@
    
   :floppy_disk: 클라우서비스를 이용한 서버와 RDB 구축에 관심이 있어요 :cd:
    
-  :cat: 1년차 캔따개에요 :cat:
+  :black-cat: 1년차 캔따개에요 :cat2:
    
   :fork_and_knife: 취미로 요리해서 먹는것을 좋아해요 :plate_with_cutlery:
 
