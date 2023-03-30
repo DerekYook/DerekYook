@@ -9,14 +9,16 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-//Spring
-  <img src="https://img.shields.io/badge/Spring-2C2255?style=for-the-badge&logo=Spring&logoColor=white">
-//Spring Boot
-  <img src="https://img.shields.io/badge/SpringBoot-2C2255?style=for-the-badge&logo=Spring Boot&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+  
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-//miro
+
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
+  
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-//docker
-  <img src="https://img.shields.io/badge/Docker-2C2255?style=for-the-badge&logo=Docker&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </div>
