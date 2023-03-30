@@ -18,7 +18,11 @@
 
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
   
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=aws&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=aws&logoColor=white">
 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </div>
