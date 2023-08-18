@@ -39,5 +39,5 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a>
   
   ## Study Blog
-  <a href="https://recondite-spear-460.notion.site/64cbe16ce8534e07a66c6f23808622e8" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">기술 블로그</a>
+  <a href="https://kdyook.notion.site/kdyook/ea92ecea48d143d19f4993efa6f37c45" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">기술 블로그</a>
 </div>
