@@ -8,9 +8,9 @@
    
   :computer: 새로운걸 배우는 것을 좋아해요 :computer_mouse:
    
-  :floppy_disk: 클라우드서비스를 이용한 서버와 RDB 구축에 관심이 있어요 :cd:
+  :floppy_disk: 백엔드 엔지니어입니다 :cd:
    
-  :black_cat: 1년차 캔따개에요 :cat2:
+  :black_cat: 2년차 캔따개에요 :cat2:
    
   :fork_and_knife: 취미로 요리해서 먹는것을 좋아해요 :plate_with_cutlery:
 
