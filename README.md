@@ -14,6 +14,8 @@
    
   :fork_and_knife: 취미로 요리해서 먹는것을 좋아해요 :plate_with_cutlery:
 
+## WakaTime
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekyook&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
 ## TechStack
    
@@ -34,7 +36,7 @@
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://miro.com/" target="_blank"><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"></a>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekyook)](https://github.com/anuraghazra/github-readme-stats)
+
   <a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"></a>
   <a href="https://aws.amazon.com/ko/ec2/?nc2=h_ql_prod_fs_ec2" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"></a>
   <a href="https://aws.amazon.com/ko/rds/?nc2=h_ql_prod_fs_rds" target="_blank"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"></a>
